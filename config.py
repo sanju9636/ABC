@@ -44,7 +44,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY", None)
 
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/LOCO-PILOT/ABC",
+    "https://github.com/sanju9636/ABC",
 )
 
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "master")
