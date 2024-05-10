@@ -2,7 +2,7 @@ import asyncio, os, time, aiohttp
 import aiohttp
 from pyrogram import filters
 from blackpink import blackpink as bp
-from DAXXMUSIC import app
+from AnonXMusic import app
 from pyrogram.types import InlineKeyboardButton, InlineKeyboardMarkup
 
 ###
