@@ -1,6 +1,6 @@
-from DAXXMUSIC.utils.mongo import db
+from AnonXMusic.utils.mongo import db
 
-#from DAXXMUSIC.mongo import *# back...............
+#from AnonXMusic.mongo import *# back...............
 
 notes = db.notes["notes"]
 
